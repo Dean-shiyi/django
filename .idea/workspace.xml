@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57fac45c-0be3-49f9-a842-442ce363b107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/dictionaries/canvas.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/moban1513.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/comedy.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/comedy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/contactstyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/faqstyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/jquery.slidey.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/medile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/popuo-box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/single.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/genres.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/genres.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/horror.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/horror.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/arrow1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h1-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h2-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h3-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/h9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/img-sp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/m9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/n9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/news1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/play-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/images/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/jquery-2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/jquery.dotdotdot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/jquery.flexslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/jquery.magnific-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/jquery.slidey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/move-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/js/simplePlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list-css/basictable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list-css/list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list-css/table-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list-js/jquery.basictable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list-js/jquery.mobile.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list-js/jquery.tools.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/news-css/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/news-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/news-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/series.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/series.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/short-codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/short-codes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_mtv_tmp/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_mtv_tmp/single.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movie/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#1#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django_mtv_tmp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="1064" column="38" selection-start-line="1064" selection-start-column="38" selection-end-line="1064" selection-end-column="38" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movie/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/django/conf/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movie/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+              <folding>
+                <element signature="e#639#671#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{\%</find>
+      <find>Tarzar</find>
+      <find>feat</find>
+      <find>featured</find>
+      <find>Top View</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{% static $1}</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/django_mtv_tmp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testapp/templates/hello.html" />
+        <option value="$PROJECT_DIR$/templates/hello.html" />
+        <option value="$PROJECT_DIR$/testapp/views.py" />
+        <option value="$PROJECT_DIR$/django_mtv_tmp/news-css/index.html" />
+        <option value="$PROJECT_DIR$/testapp/models.py" />
+        <option value="$PROJECT_DIR$/static/css/medile.css" />
+        <option value="$PROJECT_DIR$/test1/settings.py" />
+        <option value="$PROJECT_DIR$/movie/admin.py" />
+        <option value="$PROJECT_DIR$/movie/models.py" />
+        <option value="$PROJECT_DIR$/movie/views.py" />
+        <option value="$PROJECT_DIR$/test1/urls.py" />
+        <option value="$PROJECT_DIR$/django_mtv_tmp/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="79" />
+    <option name="y" value="23" />
+    <option name="width" value="1447" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/django_mtv_tmp" />
+      <recent name="$PROJECT_DIR$/django_mtv_tmp/news-css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.test1">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="test1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8080" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57fac45c-0be3-49f9-a842-442ce363b107" name="Default Changelist" comment="" />
+      <created>1556415972631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556415972631</updated>
+      <workItem from="1556415973783" duration="15489000" />
+      <workItem from="1556446922605" duration="17560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33049000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="79" y="23" width="1447" height="941" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338078" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32979977" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32979977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39929327" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="manage.py@test1" order="10" weight="0.32979977" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32953736" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test1$views.coverage" NAME="views Coverage Results" MODIFIED="1556520588358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>MovieDetall.objects.filter(kind__name='最新电影')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testapp/templates/hello.html" />
+    <entry file="file://$PROJECT_DIR$/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/django/views/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="30" column="78" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_mtv_tmp/news-css/index.html" />
+    <entry file="file://$PROJECT_DIR$/django_mtv_tmp/news-css/index1.html" />
+    <entry file="file://$PROJECT_DIR$/testapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/news.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/medile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="258" column="23" lean-forward="true" selection-start-line="258" selection-start-column="23" selection-end-line="258" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/moban1513.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/dictionaries/canvas.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/markdown-navigator/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.idea/markdown-navigator.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/movie/u20899791903076452628fm26gp0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/movie/u1415589205624978738fm26gp0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/movie/u21537510893181675020fm26gp0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/migrations/0003_auto_20190429_0628.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_mtv_tmp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="1064" column="38" selection-start-line="1064" selection-start-column="38" selection-end-line="1064" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
